@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Douglas Silva from Brazil and have been working since 2013 as Back-End developer mainly with PHP. Now i am working on State University of Feira de Santana as University Analyst since september of 2019.
+I continuosly studing the javascript ecosystem mainly Back-End with NodeJS and Deno despite having also done learning projects with React and React Native.
+
+Love to play electric and acoustic guitar and games. A beer with friends is always a good time =D
+
 <!--
 **dougecomp/dougecomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
