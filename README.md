@@ -8,6 +8,8 @@ I have also been studying application containerization concepts using technologi
 
 I have also been studying Kubernetes concepts because I believe it is important to have a sense of tools that can increase the resilience, availability and observability of applications in production.
 
+I believe too that well-developed soft skills are the key to good teamwork in order to add value to organizations.
+
 Love to play electric and acoustic guitar and games. A beer with friends is always a good time =D
 
 <!--
