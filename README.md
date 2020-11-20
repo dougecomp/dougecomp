@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 My name is Douglas Silva from Brazil and have been working since 2013 as Back-End developer mainly with PHP. Now i am working on State University of Feira de Santana as University Analyst since september of 2019.
+
 I continuosly studing the javascript ecosystem mainly Back-End with NodeJS and Deno despite having also done learning projects with React and React Native.
+
 I have also been studying application containerization concepts using technologies like podman and docker.
+
 I have also been studying Kubernetes concepts because I believe it is important to have a sense of tools that can increase the resilience, availability and observability of applications in production.
 
 Love to play electric and acoustic guitar and games. A beer with friends is always a good time =D
