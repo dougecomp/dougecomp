@@ -10,7 +10,7 @@ I have also been studying Kubernetes concepts because I believe it is important 
 
 I believe too that well-developed soft skills are the key to good teamwork in order to add value to organizations.
 
-Love to play electric and acoustic guitar and games. A beer with friends is always a good time =D
+Love to play electric and acoustic guitar and games.
 
 <!--
 **dougecomp/dougecomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
